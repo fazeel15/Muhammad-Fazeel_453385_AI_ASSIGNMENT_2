@@ -2,4 +2,4 @@
 
 ## Name: Muhammad Fazeel
 ## Reg No: 453385
-### In the repository, .txt files are the output of program .exe files are the executables and .cpp are code files.
+### In the repository, the code of snake python game with adversary snake is shared.
